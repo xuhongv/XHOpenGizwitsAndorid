@@ -1,11 +1,11 @@
 
 
-
-
 ----------
-![这里写图片描述](https://github.com/xuhongv/XHOpenGizwitsAndorid/blob/master/doc/github.png?raw=true)
 
 
+<p align="center">
+  <img src="https://github.com/xuhongv/XHOpenGizwitsAndorid/blob/master/doc/github.png" width="550px" height="360px" alt="Banner" />
+</p>
 
 
 
