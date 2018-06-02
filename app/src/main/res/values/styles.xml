@@ -1,0 +1,60 @@
+<resources>
+
+
+    <style name="AppTheme" parent="QMUI.Compat.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+
+        <!-- 配置qmui提供的theme -->
+        <item name="qmui_config_color_blue">@color/app_color_blue</item>
+        <item name="qmui_round_btn_bg_color">@color/app_color_blue</item>
+        <item name="qmui_round_btn_border_color">@color/app_color_blue</item>
+        <item name="qmui_round_btn_text_color">@color/app_color_blue</item>
+        <item name="qmui_content_spacing_horizontal">20dp</item>
+        <item name="qmui_content_padding_horizontal">@dimen/qmui_content_spacing_horizontal</item>
+
+
+        <item name="qmui_topbar_bg_color">@color/app_color_blue</item>
+        <item name="qmui_topbar_title_color">@color/qmui_config_color_white</item>
+        <item name="qmui_topbar_subtitle_color">@color/qmui_config_color_white</item>
+        <item name="qmui_topbar_text_btn_color_state_list">@color/app_color_blue</item>
+        <item name="qmui_topbar_height">48dp</item>
+        <item name="qmui_topbar_image_btn_height">48dp</item>
+
+
+    </style>
+
+
+    <style name="fullAppTheme" parent="QMUI.Compat.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+        <item name="windowNoTitle">true</item>
+        <item name="windowActionBar">false</item>
+        <item name="android:windowFullscreen">true</item>
+
+
+        <!-- 配置qmui提供的theme -->
+        <item name="qmui_config_color_blue">@color/app_color_blue</item>
+        <item name="qmui_round_btn_bg_color">@color/app_color_blue</item>
+        <item name="qmui_round_btn_border_color">@color/app_color_blue</item>
+        <item name="qmui_round_btn_text_color">@color/app_color_blue</item>
+        <item name="qmui_content_spacing_horizontal">20dp</item>
+        <item name="qmui_content_padding_horizontal">@dimen/qmui_content_spacing_horizontal</item>
+
+
+        <item name="qmui_topbar_bg_color">@color/app_color_blue</item>
+        <item name="qmui_topbar_title_color">@color/qmui_config_color_white</item>
+        <item name="qmui_topbar_subtitle_color">@color/qmui_config_color_white</item>
+        <item name="qmui_topbar_text_btn_color_state_list">@color/app_color_blue</item>
+        <item name="qmui_topbar_height">48dp</item>
+        <item name="qmui_topbar_image_btn_height">48dp</item>
+
+
+    </style>
+
+
+</resources>

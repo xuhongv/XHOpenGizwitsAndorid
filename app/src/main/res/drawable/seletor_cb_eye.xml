@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--按下时候的显示图片-->
+    <item android:state_checked="true" android:drawable="@drawable/ic_eye_show"/>
+
+    <!--默认的图片-->
+    <item android:state_checked="false" android:drawable="@drawable/ic_eye_diss"/>
+
+</selector>

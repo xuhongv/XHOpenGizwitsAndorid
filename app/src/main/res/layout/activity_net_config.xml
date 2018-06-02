@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <com.qmuiteam.qmui.widget.QMUITopBar
+        android:id="@+id/topBar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/qmui_topbar_height"
+        app:qmui_topbar_bg_color="@color/colorAccent"
+        app:qmui_topbar_need_separator="true" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.6"
+        android:scaleType="fitXY"
+        android:src="@drawable/adddevice_wificonfig_bg1" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="20dp"
+        android:layout_weight="0.4">
+
+        <LinearLayout
+            android:id="@+id/ll1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/bg_wifi_config">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="当前wifi:"
+                android:textSize="13sp" />
+
+            <TextView
+                android:id="@+id/tvAPSsid"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="xuhong"
+                android:textSize="13sp" />
+
+
+        </LinearLayout>
+
+        <RelativeLayout
+            android:id="@+id/ll2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/ll1"
+            android:layout_marginTop="15dp">
+
+            <EditText
+                android:maxLines="1"
+                android:id="@+id/etApPassword"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/bg_wificonfig_et"
+                android:hint="WI-Fi密码"
+                android:inputType="textPassword"
+                android:text=""
+                android:textSize="13sp" />
+
+            <CheckBox
+                android:layout_marginEnd="10dp"
+                android:id="@+id/cbPaw"
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"
+                android:layout_centerInParent="true"
+                android:background="@drawable/seletor_cb_eye"
+                android:button="@null" />
+
+
+        </RelativeLayout>
+
+
+        <Button
+            android:id="@+id/btnAdd"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/ll2"
+            android:layout_marginTop="15dp"
+            android:background="@drawable/bg_add"
+            android:text="开始搜索"
+            android:textColor="#ffff" />
+
+
+    </RelativeLayout>
+
+
+</LinearLayout>

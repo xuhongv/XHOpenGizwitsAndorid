@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="H:\AndroidProject\Pack\xuhong_gizwits_andorid\app\libs\easylink2.0.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="639dd107e503051da416656cadc74e36ccc30f5d">
+        <dex dex="H:\AndroidProject\Pack\xuhong_gizwits_andorid\app\build\intermediates\transforms\preDex\release\1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\AndroidProject\Pack\xuhong_gizwits_andorid\app\libs\OneShotConfig.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d2b4db1b039b9334211a15e41fec0f56994cc67e">
+        <dex dex="H:\AndroidProject\Pack\xuhong_gizwits_andorid\app\build\intermediates\transforms\preDex\release\6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\qmui-1.0.6.aar\cb7859a27853ec2f3b168d2c663d86d1\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="543c4d3e20d4df2f38af8ce1ccb13543dc6c697c">
+        <dex dex="H:\AndroidProject\Pack\xuhong_gizwits_andorid\app\build\intermediates\transforms\preDex\release\9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.1.aar\0b592bc02172d8a373df4e05ec7d9cc1\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="59cbbfb2937ebed98c8bb8882b7112d16358014e">
+        <dex dex="H:\AndroidProject\Pack\xuhong_gizwits_andorid\app\build\intermediates\transforms\preDex\release\11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\AndroidProject\Pack\xuhong_gizwits_andorid\app\libs\simpleconfigwizardlib.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0663943461ba77594377d342ced515e2d7dca900">
+        <dex dex="H:\AndroidProject\Pack\xuhong_gizwits_andorid\app\build\intermediates\transforms\preDex\release\7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\AndroidProject\Pack\xuhong_gizwits_andorid\app\libs\zxing.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6fe22c135f19470d05b0816d5996c442ef67da3f">
+        <dex dex="H:\AndroidProject\Pack\xuhong_gizwits_andorid\app\build\intermediates\transforms\preDex\release\8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.1.aar\574125852179e338cfdb0a30cded6a70\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f8a80c9882b064f2943e10649a8d2b249f5bf176">
+        <dex dex="H:\AndroidProject\Pack\xuhong_gizwits_andorid\app\build\intermediates\transforms\preDex\release\21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.1.aar\b912af58ee9dcf4aff552a44ae76cc10\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d4f9ace23785adf79a174d569bde261f032e1190">
+        <dex dex="H:\AndroidProject\Pack\xuhong_gizwits_andorid\app\build\intermediates\transforms\preDex\release\22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.1.aar\afb71c0d735dc84e14ba6ea87d239577\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="69f7591c9ff9238ff226e264c0260bb9f1ce0029">
+        <dex dex="H:\AndroidProject\Pack\xuhong_gizwits_andorid\app\build\intermediates\transforms\preDex\release\15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.1.aar\616676e96b832fdfb71d7bea062262d3\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6db956f55089a8d067d7cab3f65aa2aba8b6396d">
+        <dex dex="H:\AndroidProject\Pack\xuhong_gizwits_andorid\app\build\intermediates\transforms\preDex\release\13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.1.aar\4c49e3197f90a162e1fc3a70b10f49ed\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f10fed27d6d0b4aae675f17b33c639b4d5a0ed93">
+        <dex dex="H:\AndroidProject\Pack\xuhong_gizwits_andorid\app\build\intermediates\transforms\preDex\release\19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.1.aar\f3ac657f6646c6f5e5fd6965ed44f0e4\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="91dae39a5cc837ad2a829c0dc69c57ab8d69d22b">
+        <dex dex="H:\AndroidProject\Pack\xuhong_gizwits_andorid\app\build\intermediates\transforms\preDex\release\23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.1.aar\1b638bd852b44ed330eb0cd37234d088\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ac5e6ae168ef77f0b0b1e3245d7afd7d32f710c3">
+        <dex dex="H:\AndroidProject\Pack\xuhong_gizwits_andorid\app\build\intermediates\transforms\preDex\release\18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\27.0.1\287742f1c6cea6d9126670e9f031890b0462362a\support-annotations-27.0.1.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="287742f1c6cea6d9126670e9f031890b0462362a">
+        <dex dex="H:\AndroidProject\Pack\xuhong_gizwits_andorid\app\build\intermediates\transforms\preDex\release\24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\AndroidProject\Pack\xuhong_gizwits_andorid\app\libs\GizWifiSDK.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e3e84ec9c8b38af67008394f88969ba98b30e72e">
+        <dex dex="H:\AndroidProject\Pack\xuhong_gizwits_andorid\app\build\intermediates\transforms\preDex\release\2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.0.0\a2d487452376193fc8c103dd2b9bd5f2b1b44563\common-1.0.0.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="H:\AndroidProject\Pack\xuhong_gizwits_andorid\app\build\intermediates\transforms\preDex\release\27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.1.aar\08aab8362cfe63e2676fcb04e6b0d480\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d928394035bd4f7d2ee9e1c63d45f9ec088e21a4">
+        <dex dex="H:\AndroidProject\Pack\xuhong_gizwits_andorid\app\build\intermediates\transforms\preDex\release\14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\transition-27.0.1.aar\e107a0162b5bc96ec31bf17ea94ffaef\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="dc703c35f594398c269b79b0178c86744add9494">
+        <dex dex="H:\AndroidProject\Pack\xuhong_gizwits_andorid\app\build\intermediates\transforms\preDex\release\20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\5f5798779033f292d8afeec245056588\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="H:\AndroidProject\Pack\xuhong_gizwits_andorid\app\build\intermediates\transforms\preDex\release\25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\AndroidProject\Pack\xuhong_gizwits_andorid\app\libs\LSFSK_1.0.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="577f62734f27e37de527687b91f80c240faa36bd">
+        <dex dex="H:\AndroidProject\Pack\xuhong_gizwits_andorid\app\build\intermediates\transforms\preDex\release\5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\design-27.0.1.aar\9527d7c37d01ebb2b0e7354edda3f16c\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f25b1adab1e4b4f5cecb9dc6f19798afabcb177b">
+        <dex dex="H:\AndroidProject\Pack\xuhong_gizwits_andorid\app\build\intermediates\transforms\preDex\release\10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\AndroidProject\Pack\xuhong_gizwits_andorid\app\libs\libForEElink.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a1202639b111412975bd004dcbc34222c8a43d12">
+        <dex dex="H:\AndroidProject\Pack\xuhong_gizwits_andorid\app\build\intermediates\transforms\preDex\release\4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\340e2894cfa66d3a0e329cbeefd5d237\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="H:\AndroidProject\Pack\xuhong_gizwits_andorid\app\build\intermediates\transforms\preDex\release\12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.0.0\e414a4cb28434e25c4f6aa71426eb20cf4874ae9\common-1.0.0.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="H:\AndroidProject\Pack\xuhong_gizwits_andorid\app\build\intermediates\transforms\preDex\release\26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\AndroidProject\Pack\xuhong_gizwits_andorid\app\libs\Lark7618SDK_noudp1606031910_0101.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9edeb9e389e2f4423152b9d8053ca53c4e3da121">
+        <dex dex="H:\AndroidProject\Pack\xuhong_gizwits_andorid\app\build\intermediates\transforms\preDex\release\3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\SDK\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="H:\AndroidProject\Pack\xuhong_gizwits_andorid\app\build\intermediates\transforms\preDex\release\16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.1.aar\7f33eddb46656d2d92ae49fc235b9232\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="cbbd26dd2f6d46181b41a5f6f5e34889442a811b">
+        <dex dex="H:\AndroidProject\Pack\xuhong_gizwits_andorid\app\build\intermediates\transforms\preDex\release\17.jar" />
+    </item>
+
+</items>
